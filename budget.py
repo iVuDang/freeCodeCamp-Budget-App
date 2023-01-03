@@ -34,10 +34,6 @@ class Category:
     else: 
       return False
 
-    # [{'amount': 500, 'description': 'soup'}, {'amount': -200, 'description': 'noodle'}]
-    # [200]
-    # True
-
   # A transfer method that accepts an amount and another budget category as arguments. The method should add a withdrawal with the amount and the description "Transfer to [Destination Budget Category]". The method should then add a deposit to the other budget category with the amount and the description "Transfer from [Source Budget Category]". If there are not enough funds, nothing should be added to either ledgers. This method should return True if the transfer took place, and False otherwise.
   def transfer(self, amount, to_category) -> bool:
     if (self.check_funds(amount)):
