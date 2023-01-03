@@ -43,7 +43,7 @@ Percentage spent by category
 ```
 
 ## Preview:
-<img src="https://github.com/iVuDang/freeCodeCamp-Time-Calculator/blob/main/time%20preview.png" width=100% height=100%>
+<img src="https://github.com/iVuDang/freeCodeCamp-Budget-App/blob/main/budget%20preview.png" width=100% height=100%>
 
 ## Technologies: 
 * Python
