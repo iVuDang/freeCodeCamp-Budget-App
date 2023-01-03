@@ -50,16 +50,18 @@ Percentage spent by category
 <img src="https://github.com/iVuDang/freeCodeCamp-Budget-App/blob/main/budget%20preview.png" width=100% height=100%>
 
 <br>
+
 ## Technologies: 
 * Python
 
 <br>
+
 ## Outcome :white_check_mark: :
 | Website | Link | 
 | ------------- | ------------- | 
 | Replit demo | https://replit.com/@iVuDang/freeCodeCamp-Budget-App-v1#main.py | 
 
-<br/>
+<br>
 
 - - - -
 
