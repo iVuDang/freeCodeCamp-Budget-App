@@ -59,7 +59,7 @@ Percentage spent by category
 ## Outcome :white_check_mark: :
 | Website | Link | 
 | ------------- | ------------- | 
-| Replit demo | https://replit.com/@iVuDang/freeCodeCamp-Budget-App-v1#main.py | 
+| Replit demo | https://replit.com/@iVuDang/boilerplate-budget-app#budget.py | 
 
 <br>
 
