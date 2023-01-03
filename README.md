@@ -3,6 +3,8 @@
 ## Instructions:
 https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app
 
+<br>
+
 ## Purpose
 Complete the Category class in budget.py. It should be able to instantiate objects based on different budget categories like food, clothing, and entertainment. When objects are created, they are passed in the name of the category. The class should have an instance variable called ledger that is a list. When the budget object is printed it should display:
 
@@ -42,12 +44,16 @@ Percentage spent by category
         g    
 ```
 
+<br>
+
 ## Preview:
 <img src="https://github.com/iVuDang/freeCodeCamp-Budget-App/blob/main/budget%20preview.png" width=100% height=100%>
 
+<br>
 ## Technologies: 
 * Python
 
+<br>
 ## Outcome :white_check_mark: :
 | Website | Link | 
 | ------------- | ------------- | 
@@ -184,6 +190,7 @@ Using for loop within a for loop is good for creating a grid e.g. a bar graph.
 
 12) Can add a last row by putting the accumulator variable OUTSIDE of the loop, and accumulate. 
 
+<br>
 
 ## Citations:
 :heart: Ideas to solve project inspired from: 
