@@ -77,7 +77,19 @@ Percentage spent by category
 
 4) Can use accumulator variable '+=', or appending to a list & sum(list), the latter keeps a nicer documentation trail, and for debugging / print.
 
-    Syntax: sum(list)
+    ```python
+    self.balance = 0
+    self.balance += amount
+    ```
+
+Better for documentation trail and debugging: 
+
+    ```python
+    self.balance = []
+    self.balance.append(amount) 
+
+    sum(self.balance)
+    ```
 
 5) Three ways to if condition a Boolean:  
     ```python
