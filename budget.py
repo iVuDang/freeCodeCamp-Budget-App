@@ -137,7 +137,7 @@ def create_spend_chart(categories) -> str:
     
     for column_value in percent_list:
       if column_value > row: # e.g. row is moving 100, 90, 80, etc. 
-        row_line += ' o ' # e.g. if 34 > then 30, then 20, then 10, we'll add 
+        row_line += ' o ' # e.g. if 34 > then 30, then 20, then 10, we'll add o
       else:
         row_line += '   '
     row_line += ' '
