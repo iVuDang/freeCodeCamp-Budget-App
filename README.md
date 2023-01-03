@@ -186,18 +186,23 @@ Using for loop within a for loop is good for creating a grid e.g. a bar graph.
 
 
 ## Citations:
-Ideas to solve project inspired from renatosantos98, RobisonTorres, sfoteini. 
+:heart: Ideas to solve project inspired from: 
+* renatosantos98 
+* RobisonTorres
+* sfoteini
 
-https://www.educative.io/answers/what-is-the-str-method-in-python
-http://www.compciv.org/guides/python/fundamentals/dictionaries-overview/
-https://www.askpython.com/python/list/list-of-dictionaries
+f'strings: 
+* https://miguendes.me/73-examples-to-help-you-master-pythons-f-strings
+* https://cheatography.com/brianallan/cheat-sheets/python-f-strings-basics/
+* https://www.pythonmorsels.com/string-formatting/
 
+Dictionaries:
+* http://www.compciv.org/guides/python/fundamentals/dictionaries-overview/
+* https://www.askpython.com/python/list/list-of-dictionaries
 
-https://miguendes.me/73-examples-to-help-you-master-pythons-f-strings
-https://cheatography.com/brianallan/cheat-sheets/python-f-strings-basics/
-https://www.pythonmorsels.com/string-formatting/
-
-https://www.w3schools.com/python/ref_func_range.asp
+Methods: 
+* https://www.educative.io/answers/what-is-the-str-method-in-python
+* https://www.w3schools.com/python/ref_func_range.asp
 
 
 
