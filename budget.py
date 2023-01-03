@@ -45,7 +45,7 @@ class Category:
     # Can use f'strings' or string concat 
       
     # self.withdraw(amount, f'Transfer to {to_category.category}')
-    # self.withdraw refers to our current category, applied withdraw function to it, t0_category.category refers to the new instantized category from our parameter, and .category initializes it through our __init__ function
+    # self.withdraw refers to our current category, applied withdraw function to it, to_category.category refers to the new instantized category from our parameter, and .category initializes it through our __init__ function
       
     # to_category.deposit(amount, "Transfer from " + self.category)
     # to_category refers to our instantized category from our parameter, we apply the deposit function to it, self.category refers to our previous state
